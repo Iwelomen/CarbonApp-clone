@@ -1,0 +1,6 @@
+framework module Pods_CarbonAppTests {
+  umbrella header "Pods-CarbonAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

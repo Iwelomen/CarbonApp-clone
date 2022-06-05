@@ -1,0 +1,6 @@
+framework module Pods_CarbonApp {
+  umbrella header "Pods-CarbonApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
